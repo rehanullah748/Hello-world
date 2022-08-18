@@ -42,13 +42,13 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@](https://github.com/githubhandle)
+- GitHub: [@rehanullah748](https://github.com/rehanullah748)
 - Twitter: [@Rehanul47235282](https://twitter.com/Rehanul47235282)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/rehan-ullah-2b644b239)
 
 👤 **Author2**
 
-- GitHub: [@rehanullah748](https://github.com/@rehanullah748)
+- GitHub: [@rehanullah748](https://github.com/rehanullah748)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/rehan-ullah-2b644b239/
 
